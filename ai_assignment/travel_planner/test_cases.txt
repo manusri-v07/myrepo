@@ -1,0 +1,17 @@
+TEST CASES
+
+1. Budget = 6000, Interest = beach, Food = seafood
+   Expected: Goa, Kerala
+
+2. Budget = 3000
+   Expected: No matching places
+
+3. Interest = mountain
+   Expected: Manali
+
+4. Food preference mismatch
+   Expected: Lower score places
+
+5. High budget
+   Expected: Multiple recommendations
+
